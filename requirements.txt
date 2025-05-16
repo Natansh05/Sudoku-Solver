@@ -1,6 +1,6 @@
 defusedxml==0.7.1
 ipython==8.12.3
-numpy==2.2.5
+numpy==1.26.4
 olefile==0.47
 opencv-python-headless==4.9.0.80
 pandas==2.2.3
