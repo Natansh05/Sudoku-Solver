@@ -8,4 +8,4 @@ PyQt6==6.9.0
 PySide6==6.9.0
 streamlit==1.45.1
 typing_extensions==4.13.2
-tensorflow==2.15.0
+tensorflow==2.16.1
